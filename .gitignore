@@ -1,0 +1,5 @@
+# Saving checkpoints.
+.ipynb_checkpoints/main-checkpoint.ipynb
+
+# Virtual environment.
+my_env
