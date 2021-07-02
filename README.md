@@ -14,5 +14,5 @@
 # Model Architecture
 
 <p align="center">
-    <img src="images/model_arch.png" alt="Logo" width="200">
+    <img src="images/model_arch.png" alt="Logo" width="300">
 </p>
