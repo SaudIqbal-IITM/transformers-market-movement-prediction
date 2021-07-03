@@ -32,5 +32,6 @@ A transformer is a deep learning model that adopts the attention mechanism, diff
 
 ## References
 
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Models with Attention by Jay Alammar](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
