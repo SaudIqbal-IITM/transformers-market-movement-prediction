@@ -22,7 +22,7 @@ A transformer is a deep learning model that adopts the attention mechanism, diff
 
 <br />
 
-## Our Model Architecture
+## Model Architecture
 
 <p align="center">
     <img src="images/model_arch.png" alt="Logo" width="300">
